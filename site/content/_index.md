@@ -3,17 +3,18 @@ title: Professional and reliable technical services
 subtitle: Expert technical solutions that keep your home and business running smoothly
 image: img/d1ea4442-80b9-4b1b-b7f5-975d71c39a14.png
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Arni?
+  text: At Arni Contractor Ltd, we combine technical expertise with a commitment
+    to reliability and safety. From electrical systems to security, networking,
+    and lighting, our team delivers solutions that work flawlessly — the first
+    time, every time. We focus on quality workmanship, clear communication, and
+    lasting results, so you can have complete confidence in your project.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: From simple cable installations to complex electrical systems, Arni
+    delivers technical solutions built to last. Whether it’s powering your home,
+    securing your property, or keeping your business connected, we provide
+    expert service tailored to your needs.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
