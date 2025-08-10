@@ -16,21 +16,38 @@ intro:
     securing your property, or keeping your business connected, we provide
     expert service tailored to your needs.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/pexels-photo-21812146.jpeg
+    text: >-
+      Complete Electrical Solutions:
+
+      From new wiring to lighting upgrades, we handle every electrical need with precision and safety in mind — for homes, offices, and industrial spaces.
+  - image: img/pexels-justus-menke-3490295-5213883.jpg
+    text: >-
+      CCTV & Security Systems:
+
+      Protect what matters with professional surveillance installation. We set up and configure CCTV systems for clear, reliable monitoring — day or night.
+  - text: >-
+      Fast & Reliable Networking:
+
+      From structured cabling to full network setup, we ensure your connectivity is strong, stable, and built for the future.
+    image: img/pexels-brett-sayles-4508748.jpg
+  - text: >-
+      Seamless Wireless Coverage:
+
+      Eliminate dead zones and enjoy fast internet everywhere. We design and install Wi-Fi solutions that keep you connected.
+    image: img/commercial-wifi-wireless-access-point-wireless-network.jpg
+  - text: >-
+      Bright, Efficient Lighting:
+
+      From ambient mood lighting to high-efficiency office solutions, we deliver illumination that’s both functional and beautiful.
+    image: img/img-20190324-wa0003.jpg
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    At Arni, we believe great work starts with trust, skill, and commitment. We
+    approach every project with integrity, ensuring safety and quality at every
+    step.
+
+
+    We value clear communication, reliable service, and lasting results. Our goal is to build strong relationships with our clients by delivering technical solutions that work flawlessly — today and for years to come.
 ---
