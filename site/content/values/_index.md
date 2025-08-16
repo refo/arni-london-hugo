@@ -1,12 +1,16 @@
 ---
-title: Values
+title: Our Values
 image: img/pexels-mart-production-7640992.jpg
 values:
-  - heading: Shade-grown coffee
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-    imageUrl: /img/about-shade-grown.jpg
+  - heading: Integrity & Quality
+    text: At Arni, we believe great work starts with trust, skill, and commitment.
+      Every project is handled with integrity, ensuring safety and high-quality
+      results at every step.
+    imageUrl: img/pexels-fatihyurtman-17924298.jpg
+  - heading: Reliability & Relationships
+    text: We value clear communication, dependable service, and long-lasting
+      solutions. Our focus is on building strong client relationships by
+      delivering technical services that perform — today and well into the
+      future.
+    imageUrl: img/pexels-brett-sayles-2881224.jpg
 ---
