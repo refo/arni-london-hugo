@@ -1,32 +1,32 @@
 ---
 title: Our Services
 type: products
-image: img/pexels-mart-production-7640992.jpg
+image: img/pexels-rodolfoclix-1036936.jpg
 intro:
-  heading: What we offer
-  description: Kaldi is the ultimate spot for coffee lovers who want to learn
-    about their java’s origin and support the farmers that grew it. We take
-    coffee production, roasting and brewing seriously and we’re glad to pass
-    that knowledge to anyone.
+  heading: From Power to Connectivity
+  description: At Arni Contractor Ltd, we provide a full range of technical
+    solutions designed to keep your home or business running smoothly. From
+    electrical installations to networking and security systems, our team
+    delivers reliable service with precision and care.
   blurbs: []
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: What We Do
+  description: Whether it’s wiring a new property, setting up CCTV surveillance,
+    extending Wi-Fi coverage, or installing modern lighting, we handle projects
+    of every size with the same attention to detail. Our goal is simple — to
+    provide professional, dependable solutions that meet your needs and exceed
+    your expectations.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/9994674c-cbcf-440d-8b8f-a5c5d19be022.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/d1ea4442-80b9-4b1b-b7f5-975d71c39a14.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/img-20190324-wa0003.jpg
 testimonials: []
-full_image: img/commercial-wifi-wireless-access-point-wireless-network.jpg
+full_image: img/pexels-pixabay-163047.jpg
 pricing:
   heading: " "
   description: " "
